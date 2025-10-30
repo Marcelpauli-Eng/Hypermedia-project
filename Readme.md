@@ -44,11 +44,12 @@ La página está planteada como **de una sola página**, con las siguientes secc
 ### Repositorio GitHub  
 Incluye los siguientes elementos:  
 - `README.md` (este archivo)  
-- Carpeta `src/` con al menos:  
+- Codigo:  
   - `index.html`  
   - `styles.css`  
   - Carpeta `assets/` con imágenes (foto, iconos) y fuentes si aplica.  
 - En el `README.md` se incluye el enlace al diseño de Figma (arriba).  
 - Enlazar a la página pública: se publicará, por ejemplo, via GitHub Pages (ej: `https://tuusuario.github.io/mi-cv`) — añadiré el enlace una vez esté publicada.
+
 
 ---
