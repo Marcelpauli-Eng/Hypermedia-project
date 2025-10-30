@@ -1,6 +1,8 @@
 # Página Web de CV – Proyecto Hipermedia (Parte 1)  
 **Enlace de Figma:** [Diseño en Figma](https://www.figma.com/site/NoNUZU9ArroqTPQ5WW52px/Pagina-Curriculum?node-id=0-1&t=dsV47qGpUQpEldJL-1)
 
+**Enlace de Pagina Web:** [Pagina Web](https://marcelpauli-eng.github.io)
+
 ---
 
 ## 1. Análisis del proyecto  
@@ -42,14 +44,11 @@ La página está planteada como **de una sola página**, con las siguientes secc
 
 ## 2. Entrega  
 ### Repositorio GitHub  
+
 Incluye los siguientes elementos:  
+
 - `README.md` (este archivo)  
-- Codigo:  
-  - `index.html`  
-  - `styles.css`  
-  - Carpeta `assets/` con imágenes (foto, iconos) y fuentes si aplica.  
-- En el `README.md` se incluye el enlace al diseño de Figma (arriba).  
-- Enlazar a la página pública: se publicará, por ejemplo, via GitHub Pages (ej: `https://tuusuario.github.io/mi-cv`) — añadiré el enlace una vez esté publicada.
-
-
----
+- Archivos principales en la raíz del proyecto:  
+  - [`index.html`](./index.html)  
+  - [`main.css`](./assets/main.css)  
+  - Carpeta [`assets/`](./assets) con imágenes (foto, iconos) y fuentes si aplica.  
